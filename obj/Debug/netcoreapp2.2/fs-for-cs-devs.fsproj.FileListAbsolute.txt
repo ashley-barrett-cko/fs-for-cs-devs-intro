@@ -1,0 +1,10 @@
+/Users/ashleybarrett/Documents/Source/andy-con-demos/fs-for-cs-devs/bin/Debug/netcoreapp2.2/fs-for-cs-devs.deps.json
+/Users/ashleybarrett/Documents/Source/andy-con-demos/fs-for-cs-devs/bin/Debug/netcoreapp2.2/fs-for-cs-devs.runtimeconfig.json
+/Users/ashleybarrett/Documents/Source/andy-con-demos/fs-for-cs-devs/bin/Debug/netcoreapp2.2/fs-for-cs-devs.runtimeconfig.dev.json
+/Users/ashleybarrett/Documents/Source/andy-con-demos/fs-for-cs-devs/bin/Debug/netcoreapp2.2/fs-for-cs-devs.dll
+/Users/ashleybarrett/Documents/Source/andy-con-demos/fs-for-cs-devs/bin/Debug/netcoreapp2.2/fs-for-cs-devs.pdb
+/Users/ashleybarrett/Documents/Source/andy-con-demos/fs-for-cs-devs/obj/Debug/netcoreapp2.2/fs-for-cs-devs.fsprojAssemblyReference.cache
+/Users/ashleybarrett/Documents/Source/andy-con-demos/fs-for-cs-devs/obj/Debug/netcoreapp2.2/fs-for-cs-devs.dll
+/Users/ashleybarrett/Documents/Source/andy-con-demos/fs-for-cs-devs/obj/Debug/netcoreapp2.2/fs-for-cs-devs.pdb
+/Users/ashleybarrett/Documents/Source/andy-con-demos/fs-for-cs-devs/obj/Debug/netcoreapp2.2/fs-for-cs-devs.AssemblyInfoInputs.cache
+/Users/ashleybarrett/Documents/Source/andy-con-demos/fs-for-cs-devs/obj/Debug/netcoreapp2.2/fs-for-cs-devs.AssemblyInfo.fs
